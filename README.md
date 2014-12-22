@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The creatures praysing God: or, The religion of dumbe creatures An example and argument for the stir
+
+1. To the Reader.
+
 #####Body#####
-The creatures praysing God: or, The religion of dumbe creatures An example and argument for the stir
+
+1. THE CREATVRES PRAYSING GOD: OR, THE RELIGION OF dumbe Creatures.
+
 #####Back#####
-The creatures praysing God: or, The religion of dumbe creatures An example and argument for the stir
+SOme faults haue escaped the Presse, either in omitting letters, as page 4. line 21. for awake read 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
